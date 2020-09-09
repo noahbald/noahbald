@@ -1,16 +1,49 @@
-### Hi there 👋
+# Hi, I'm Noah 👋🙋‍♂️ 
+I'm a Software engineering student who loves creating things. I love front-end development, and I'm passionate about optimising accessibility, responsive design, and ✨ _making pretty things_ ✨
 
-<!--
-**noahbald/noahbald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Discover me around the web 🌏
+- View my projects on my [personal website](https://noahwbaldwin.me) 💻🌌
+- Check out some [photography](https://www.instagram.com/bokehni/) or [just me](https://www.instagram.com/noahbald/) on Instagram 📸
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/noahwbaldwin/) 😎
+- Listen to King Krule with me on [Spotify](https://open.spotify.com/user/12101435749) 🎧
 
-Here are some ideas to get you started:
+## Metadata 👨‍💻
+``` jsx
+import React from 'react'
+import { Human } from 'react-human'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export default const Noah = (props) => {
+  const workingOn = [
+    "Third-party library analysis and recommendation tool for mobile application GUIs",
+  ]
+  const learning = [
+    "Amazon Cognito",
+    "Circuitry",
+  ]
+  const wantToLearn = [
+    "Rust 🦀",
+    "Music Composition 🎹",
+    "Game Development 🎮",
+  ]
+  const interestAndHobbies = [
+    "Film Photography 🎞",
+    "Investing 🐮",
+    "Ancient History & Mythology 🗿",
+    "Fitness 🏋",
+    "Design & Art 🎨",
+  ]
+  
+  return (
+    <Human
+      👨‍💻={workingOn}
+      👨‍🎓={learning}
+      🤔={wantToLean}
+      ♟️={interestsAndHobbies}
+    >
+      😎
+      👕
+      👖
+    </Human>
+  )
+}
+```
