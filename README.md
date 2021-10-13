@@ -14,16 +14,22 @@ import { Human } from 'react-human'
 
 export default const Noah = (props) => {
   const workingOn = [
-    "Third-party library analysis and recommendation tool for mobile application GUIs",
+    "Deloitteful things",
+    "Non-toxic social media project",
   ]
   const learning = [
+    "GraphQl",
+    "JAMStack",
+    "Rust 🦀",
+  ]
+  /**
+   * TODO: Want to learn
+   * Music Composition 🎹
+   * Game Development 🎮
+   */
+  const previousLearning = [
     "Amazon Cognito",
     "Circuitry",
-  ]
-  const wantToLearn = [
-    "Rust 🦀",
-    "Music Composition 🎹",
-    "Game Development 🎮",
   ]
   const interestAndHobbies = [
     "Film Photography 🎞",
@@ -36,8 +42,8 @@ export default const Noah = (props) => {
   return (
     <Human
       👨‍💻={workingOn}
-      👨‍🎓={learning}
-      🤔={wantToLean}
+      👨‍🎓={previousLearning}
+      🤔={learning}
       ♟️={interestsAndHobbies}
     >
       😎
