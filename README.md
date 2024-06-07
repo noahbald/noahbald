@@ -1,5 +1,5 @@
 # Hi, I'm Noah 👋🙋‍♂️ 
-I'm a FED Tech Lead at Deloitte Digital who loves creating things. In regards to FED, I'm most passionate about optimising accessibility, responsive design, and ✨ _making pretty things_ ✨
+I'm a Frontend Engineer who loves creating things. In regards to FED, I'm most passionate about optimising accessibility, guiding performance, and ✨ _making pretty things_ ✨
 
 ## Discover me around the web 🌏
 - View my projects on my [personal website](https://noahwbaldwin.me) 💻🌌
@@ -14,13 +14,12 @@ import { Human } from 'react-human'
 
 export default const Noah = (props) => {
   const workingOn = [
-    "Deloitteful things",
-    "Non-toxic social media project",
-    "A JS-in-CSS framework",
+    "Work things",
+    "Oxvg, a Rust alternative to SVGO",
   ]
   const learning = [
-    "GraphQl",
-    "JAMStack",
+    "Painting",
+    "Neovim",
     "Rust 🦀",
   ]
   /**
@@ -31,6 +30,7 @@ export default const Noah = (props) => {
   const previousLearning = [
     "Amazon Cognito",
     "Circuitry",
+    "Guitar",
   ]
   const interestAndHobbies = [
     "Film Photography 🎞",
