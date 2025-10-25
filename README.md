@@ -1,56 +1,44 @@
-# Hi, I'm Noah 👋🙋‍♂️ 
-I'm a Frontend Engineer who loves creating things. In regards to FED, I'm most passionate about optimising accessibility, guiding performance, and ✨ _making pretty things_ ✨
+<pre>
+888b    888  .d88888b.        d8888 888    888 888888b.         d8888 888      8888888b.  888       888 8888888 888b    888 
+8888b   888 d88P" "Y88b      d88888 888    888 888  "88b       d88888 888      888  "Y88b 888   o   888   888   8888b   888 
+88888b  888 888     888     d88P888 888    888 888  .88P      d88P888 888      888    888 888  d8b  888   888   88888b  888 
+888Y88b 888 888     888    d88P 888 8888888888 8888888K.     d88P 888 888      888    888 888 d888b 888   888   888Y88b 888 
+888 Y88b888 888     888   d88P  888 888    888 888  "Y88b   d88P  888 888      888    888 888d88888b888   888   888 Y88b888 
+888  Y88888 888     888  d88P   888 888    888 888    888  d88P   888 888      888    888 88888P Y88888   888   888  Y88888 
+888   Y8888 Y88b. .d88P d8888888888 888    888 888   d88P d8888888888 888      888  .d88P 8888P   Y8888   888   888   Y8888 
+888    Y888  "Y88888P" d88P     888 888    888 8888888P" d88P     888 88888888 8888888P"  888P     Y888 8888888 888    Y888
 
-## Discover me around the web 🌏
-- View my projects on my [personal website](https://noahwbaldwin.me) 💻🌌
-- Check out some [photography](https://www.instagram.com/bokehni/) or [just me](https://www.instagram.com/noahbald/) on Instagram 📸
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/noahwbaldwin/) 😎
-- Listen to King Krule with me on [Spotify](https://open.spotify.com/user/12101435749) 🎧
-
-## Metadata 👨‍💻
-``` jsx
-import React from 'react'
-import { Human } from 'react-human'
-
-export default const Noah = (props) => {
-  const workingOn = [
-    "Work things",
-    "Oxvg, a Rust alternative to SVGO",
-  ]
-  const learning = [
-    "Painting",
-    "Neovim",
-    "Rust 🦀",
-  ]
-  /**
-   * TODO: Want to learn
-   * Music Composition 🎹
-   * Game Development 🎮
-   */
-  const previousLearning = [
-    "Amazon Cognito",
-    "Circuitry",
-    "Guitar",
-  ]
-  const interestAndHobbies = [
-    "Film Photography 🎞",
-    "Investing 🐮",
-    "Ancient History & Mythology 🗿",
-    "Fitness 🏋",
-    "Design & Art 🎨",
-  ]
-  
-  return (
-    <Human
-      👨‍💻={workingOn}
-      👨‍🎓={previousLearning}
-      🤔={learning}
-      ♟️={interestsAndHobbies}
-    >
-      😎
-      👕
-      👖
-    </Human>
-  )
-}
-```
+   C------W ███████████████████████████████████████████████████████████████████████████████████████████████████   C------W 
+ C--------W █    .       .                                                                                    █  C--------W
+C--------W  █  +  :      .                     ANZx - I'm helping engineer the next step                      █ C--------W
+C-------W   █            :       _                    in ANZ's online banking experience                      █ C-------W
+ C----W     █        .   !   '  (_)                                                                           █  C----W
+    W       █           ,|.'                   Noah - I am currently writing a Rust bas-                      █     W
+  W--C      █ -  -- ---(-O-`--- --  -                 ed alternative to SVGO & Ink-scape                      █   W--C
+ W-----C    █          ,`|'`.                                                                                 █  W-----C
+W--------C  █        ,   !    .                User - You. A nice person. Say hi/provide                      █ W--------C
+W---------C █            :       :  "                 feedback by visiting me at my <a href="https://noahwbaldwin.me/landing">site</a>                      █ W---------C
+ W--------C █            .     --+--                                                                          █ W---------C
+   W-----C  █  .:        .       !                                                                            █  W--------C
+       C    ███████████████████████████████████████████████████████████████████████████████████████████████████        C
+     C--W   █   *    .  *       .             *        *    .  *       .             *         ‘Sup...        █      C--W
+   C------W █                          *                                      *              I’m a front-     █    C------W
+ C--------W █  *   .        *       .       .       * *   .        *       .       .       * end dev who      █  C--------W
+C--------W  █    .     *                                .     *                              loves making     █ C--------W
+C-------W   █            .     .  *        *                    .     .  *        *            sh*-!          █ C-------W
+ C----W     █        .                .        .            .                .        .          \            █  C----W
+    W       █ .  *           *                     * .  *           *                     *       ' _         █     W
+  W--C      █                              .                                      .               = =`.\      █   W--C
+ W-----C    █          *          .   *                       *          .   *                   /o   c`      █  W-----C
+W--------C  █   *    .  *       .             *        *    .  *       .             *            \  (___     █ W--------C
+W---------C █                          *                                      *                   _\/_\ .`\   █ W---------C
+ W--------C █  *   .        *       .       .       * *   .        *       .       .       * _   /|o    /  \  █  W--------C
+   W-----C  █    .     *                                .     *                             _)\.-`|'     \_ \ █    W-----C
+       C    █            .     .  *        *                    .     .  *        *          `_)o_'   -  /  / █        C
+     C--W   █        .                .        .            .                .        .           =x==|=/_o,  █      C--W
+   C------W █    |\      _,,,---,,_   *           *                     * .  *           *     . /(_    | \_  █    C------W
+ C--------W █    /,`.-'`'    -.  ;-;;,_                             .                           |  /`   )\\   █  C--------W
+C--------W  █   |,4-  ) )-,_..;\ (  `'-'         *          .   *                       *       ' /    /      █ C--------W
+C-------W   █  '---''(_/--'  `-'\_)       .  *       .             *        *    .  *       .   \(     >      █ C-------W
+ C----W     ███████████████████████████████████████████████████████████████████████████████████████████████████  C----W
+</pre>
